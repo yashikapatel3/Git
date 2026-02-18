@@ -1,7 +1,13 @@
 this is a new file
 second line
+<<<<<<< HEAD
 third line 
 fouth line 
 fifth line
 fifth line
 fifth line
+=======
+hoiiiiiiiiiii
+this is new branch
+helloooooooooooooo
+>>>>>>> branch
